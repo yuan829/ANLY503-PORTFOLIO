@@ -3,3 +3,8 @@ title: "My Website"
 ---
 
 This is Yuan Liu's website. I'm a graduate student in Georgetown University. This website includes all of the visualization assignment and final project in ANLY503.
+
+
+
+![](1.jpg)
+
