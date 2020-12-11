@@ -1,9 +1,25 @@
 name: "my-website"
 output_dir: "docs"
 navbar:
-  title: "My Website"
+  title: "Yuan Liu's Website"
   left:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
+    - text: "A5"
+      href: A5.html
+    - text: "A6 geospatital"
+      href: A6 geospatial.html
+    - text: "A7 Networks"
+      href: A7 networks.html
+    - text: "final project"
+      href: final-project.html
+  right:
+    - icon: fa-github fa-lg
+      href: https://github.com/yuan829/anly503-portfolio
+output:
+    html_document:
+       
+       highlight: textmate
+       css: styles.css

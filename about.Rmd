@@ -2,6 +2,5 @@
 title: "About This Website"
 ---
 
-More about this website.
+#Contact me for any question: yl1130@georgetown.edu
 
-ssssssssss
